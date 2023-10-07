@@ -7,9 +7,11 @@ My Passions include Coding, software engineering, and professional development. 
 
 ---
 
-Currently Learning: TypeScript, Tailwind, Bootstrap
+Interested In Learning: TypeScript, Tailwind, .NET, C#
 
-Currently Working On: Freelance Projects
+Currently Learning: Vue
+
+Currently Working On: Capstone Project
 
 ---
 
