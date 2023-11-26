@@ -11,7 +11,7 @@ Interested In Learning: TypeScript, Tailwind, .NET, C#
 
 Currently Learning: Vue
 
-Currently Working On: Capstone Project
+Currently Working On: Freelance Work
 
 ---
 
